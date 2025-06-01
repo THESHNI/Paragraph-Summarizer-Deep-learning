@@ -1,4 +1,5 @@
-# Paragraph-Summarizer-IOT
+# Paragraph-Summarizer-Deep Learning
+# Neural networking ML and DL
 To create a Paragraph Summarizer using the transformer pipeline in Python, we can utilize the transformers library from Hugging Face. The transformers library provides pre-trained models and tools for tasks like text summarization, sentiment analysis, and more.
 
 For summarization, Hugging Face offers models like BART, T5, and PEGASUS that can efficiently generate summaries from paragraphs.
